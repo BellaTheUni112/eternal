@@ -8,3 +8,6 @@ The preconfigured Python 2.7.6 install ensures the exploits function properly ou
 
 
 Password to "eternal.7z" is "infected", the reason it's encrypted is because Antiviruses HATE exploits (as they are literally malicious and designed to exploit things)
+
+
+I am warning you, the wrapper crashes if the payload doesn't exist so edit the wrapper and change the payload to an actual payload you have.
